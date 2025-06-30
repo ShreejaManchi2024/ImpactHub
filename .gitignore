@@ -1,0 +1,53 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs
+*.log
+*.log.*
+
+# Runtime
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.*.local
+
+# React Native
+.expo/
+.expo-shared/
+*.expo
+
+# Metro bundler
+metro-cache/
+
+# Build outputs
+build/
+dist/
+
+# Android
+android/app/build/
+*.keystore
+
+# iOS
+ios/build/
+ios/Pods/
+
+# VSCode
+.vscode/
+
+# Webpack
+.cache/
+
+# Expo
+web-build/
